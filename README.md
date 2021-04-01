@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yedacc
+- 👀 I’m interested in learning Python3+
+- 🌱 I’m currently learning the aforementioned
+- 💞️ I’m looking to collaborate on any project with somebody who has the patience to teach a n00b :)
+- 📫 How to reach me: via email, dame@live.jp or Twitter (@yokai94)
